@@ -13,7 +13,7 @@ This project focuses on **data cleaning and exploratory data analysis (EDA)** us
 ✔ **Exploratory Data Analysis (EDA):** Analyzing trends, identifying patterns, and extracting key insights from the layoffs dataset.  
 ✔ **SQL Query Optimization:** Efficiently processing and querying large datasets for better analysis.  
 
-This project demonstrates the power of **SQL in data wrangling and analysis**, making it easier to derive meaningful business insights. 🚀  
+This project demonstrates the power of **SQL in data wrangling and analysis**, making it easier to derive meaningful business insights.   
 
 <p align="center">
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge">
@@ -64,7 +64,7 @@ Here are some snapshots of the data cleaning and EDA process:
 
 ## 🍰 Contribution Guidelines  
 
-We welcome contributions to improve this project! 🚀  
+We welcome contributions to improve this project!   
 
 If you would like to contribute:  
 1. **Fork** the repository.  
@@ -72,7 +72,7 @@ If you would like to contribute:
 3. Ensure your code follows **SQL best practices** and is well-documented.  
 4. Submit a **pull request** with a clear description of your modifications.  
 
-You can also open an **issue** if you find any bugs or have suggestions for improvements. Contributions like **new insights, improved query performance, or expanded dataset analysis** are highly appreciated. Let's collaborate and make this project even better! 🎉  
+You can also open an **issue** if you find any bugs or have suggestions for improvements. Contributions like **new insights, improved query performance, or expanded dataset analysis** are highly appreciated. Let's collaborate and make this project even better! 
 
 ---
 
@@ -83,4 +83,4 @@ This project is built using:
 
 ---
 
-Feel free to customize the **Images section** by adding actual screenshots of your work. Let me know if you need any modifications! 😊  
+Feel free to customize the **Images section** by adding actual screenshots of your work. Let me know if you need any modifications! 
