@@ -9,9 +9,9 @@
 This project focuses on **data cleaning and exploratory data analysis (EDA)** using **SQL** on a layoffs dataset. The dataset contains records of company layoffs across various industries, providing insights into workforce reductions over time.  
 
 ### Key Objectives:  
-✔ **Data Cleaning:** Handling missing values, standardizing formats, and removing inconsistencies using SQL queries.  
-✔ **Exploratory Data Analysis (EDA):** Analyzing trends, identifying patterns, and extracting key insights from the layoffs dataset.  
-✔ **SQL Query Optimization:** Efficiently processing and querying large datasets for better analysis.  
+- **Data Cleaning:** Handling missing values, standardizing formats, and removing inconsistencies using SQL queries.  
+- **Exploratory Data Analysis (EDA):** Analyzing trends, identifying patterns, and extracting key insights from the layoffs dataset.  
+- **SQL Query Optimization:** Efficiently processing and querying large datasets for better analysis.  
 
 This project demonstrates the power of **SQL in data wrangling and analysis**, making it easier to derive meaningful business insights.   
 
