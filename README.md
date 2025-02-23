@@ -16,15 +16,15 @@
 
 Here're some of the project's best features:
 
-*   🚀 Features
-*     ✔ Data Cleaning using SQL: Handling missing values and NULL entries Removing duplicates and inconsistent data Standardizing text formats (case spacing etc.) Correcting data types for accurate analysis
-*     ✔ Exploratory Data Analysis (EDA): Analyzing layoff trends over time Identifying industries and companies most affected Finding regional layoff patterns Evaluating layoff percentages relative to company             size
-*     ✔ Efficient SQL Queries: Optimized SELECT JOIN GROUP BY and WHERE queries Use of window functions for ranking and trend analysis Aggregation techniques for insightful visualizations
-*     ✔ Insights & Business Impact: Understanding economic downturn effects Spotting which sectors are most volatile Helping businesses prepare for workforce planning
+* <h3>Features: </h3>
+* ✔ Data Cleaning using SQL: Handling missing values and NULL entries Removing duplicates and inconsistent data Standardizing text formats (case spacing etc.) Correcting data types for accurate analysis
+* ✔ Exploratory Data Analysis (EDA): Analyzing layoff trends over time Identifying industries and companies most affected Finding regional layoff patterns Evaluating layoff percentages relative to company             size
+* ✔ Efficient SQL Queries: Optimized SELECT JOIN GROUP BY and WHERE queries Use of window functions for ranking and trend analysis Aggregation techniques for insightful visualizations
+* ✔ Insights & Business Impact: Understanding economic downturn effects Spotting which sectors are most volatile Helping businesses prepare for workforce planning
 
 <h2>🍰 Contribution Guidelines:</h2>
 
-📝 Contribution Guidelines We welcome contributions to improve this project! If you would like to contribute feel free to fork the repository and create a new branch for your changes. Make sure to document your modifications clearly and follow best practices for SQL queries and data analysis. Before submitting a pull request ensure that your code is well-structured optimized and free from errors. If you find any issues or have suggestions for enhancements you can open an issue in the repository. Contributions such as adding new insights improving query performance or expanding the dataset analysis are highly appreciated. Let's collaborate and make this project even better!
+Contribution Guidelines We welcome contributions to improve this project! If you would like to contribute feel free to fork the repository and create a new branch for your changes. Make sure to document your modifications clearly and follow best practices for SQL queries and data analysis. Before submitting a pull request ensure that your code is well-structured optimized and free from errors. If you find any issues or have suggestions for enhancements you can open an issue in the repository. Contributions such as adding new insights improving query performance or expanding the dataset analysis are highly appreciated. Let's collaborate and make this project even better!
 
   
   
