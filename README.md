@@ -55,9 +55,9 @@ Here are some snapshots of the data cleaning and EDA process:
 
 | Data Cleaning | EDA Visualization |
 |--------------|-----------------|
-| ![Data Cleaning](https://via.placeholder.com/500x300?text=Data+Cleaning+Process) | ![EDA](https://via.placeholder.com/500x300?text=EDA+Visualization) |
+| ![Data Cleaning](![Screenshot 2025-02-23 111753](https://github.com/user-attachments/assets/e8e56c16-0fee-4345-940b-bcc615e90747)) | ![EDA](![Screenshot 2025-02-23 111831](https://github.com/user-attachments/assets/4de7042b-43e1-436b-98f6-8945cd8618c2)) |
 
-*(Replace the above links with actual images from your project.)*  
+
 
 ---
 
