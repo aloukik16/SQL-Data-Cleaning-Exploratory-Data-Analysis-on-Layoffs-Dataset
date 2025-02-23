@@ -3,10 +3,12 @@
 <p align="center"><img src="https://socialify.git.ci/aloukik16/SQL-Data-Cleaning-Exploratory-Data-Analysis-on-Layoffs-Dataset/image?name=1&amp;theme=Light" alt="project-image"></p>
 
 <p id="description">📌 Description This project focuses on data cleaning and exploratory data analysis (EDA) using SQL on a layoffs dataset. The dataset contains records of company layoffs across various industries providing insights into workforce reductions over time. 
-  *<h3>🔍 Key Objectives: </h3>
-      * ✔ Data Cleaning: Handling missing values standardizing formats and removing inconsistencies using SQL queries. 
-      * ✔ Exploratory Data Analysis (EDA): Analyzing trends identifying patterns and extracting key insights from the layoffs dataset. 
-      * ✔ SQL Query Optimization: Efficiently processing and querying large datasets for better analysis. This project demonstrates the power of SQL in data wrangling and analysis making it easier to derive                 meaningful business insights.</p>
+  *<h3> Key Objectives: </h3>
+✔ Data Cleaning: Handling missing values, standardizing formats, and removing inconsistencies using SQL queries.
+✔ Exploratory Data Analysis (EDA): Analyzing trends, identifying patterns, and extracting key insights from the layoffs dataset.
+✔ SQL Query Optimization: Efficiently processing and querying large datasets for better analysis.
+
+This project demonstrates the power of SQL in data wrangling and analysis, making it easier to derive meaningful business insights.
 
 <p align="center"><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="shields"></p>
 
